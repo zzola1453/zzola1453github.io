@@ -1,2 +1,2 @@
 # 웹사이트
-<https://zzola1453.github.io>
+<https://zzola1453/zzola1453.github.io>
