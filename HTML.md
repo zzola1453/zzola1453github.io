@@ -9,8 +9,7 @@ ex)
 
 gang is <strong>dangerous</strong> : strong 태그
 
-#<img scr="주소" #/>
-* 이미지 넣기 (조유리)
+* 이미지 넣기 (조유리사진)
 
 <img
   src="https://www.choicenews.co.kr/news/photo/202308/119206_84696_3036.jpg" />
