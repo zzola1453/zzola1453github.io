@@ -36,4 +36,6 @@ ex) img 태그
 ex) href 태그
 href="https://github.com/zzola1453/"
 
-<<a href="https://www.youtube.com/watch?v=4cshHDL0m34/" target="_blank">마인크래프트 엔더드래곤 스피드런 영상</a>
+<a href="https://www.youtube.com/watch?v=4cshHDL0m34/" title="gang" target="_blank">마인크래프트 엔더드래곤 스피드런 영상</a>
+
+<a href="https://www.mozilla.org/" title="The Mozilla homepage" target="_blank">favorite website</a>
