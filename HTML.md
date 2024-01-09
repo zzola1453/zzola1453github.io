@@ -10,5 +10,6 @@ ex)
 gang is <strong>dangerous</strong> : strong 태그
 
 * 이미지 넣기
+  
 <img
   src="https://raw.githubusercontent.com/mdn/beginner-html-site/gh-pages/images/firefox-icon.png" />
