@@ -56,11 +56,11 @@ ex) disabled
 6. body, body : body의 요소, 텍스트, 이미지, 비디오, 게임, 재생 가능한 오디오 트랙 등을 비롯하여 페이지에 표시되는 모든 콘텐츠 포함
 
 ## HTML 공백
-ex)
+ex) 이거 둘 다 똑같더라
 <p>Dogs are silly.</p>
 
-<p>Dogs        are
-         silly.</p>
+'<p>'Dogs        are
+         silly.'</p>'
 
 # HTML 주석
 "<!--내용-->"
