@@ -4,6 +4,11 @@
 * 내용(Content): 요소의 내용이며, 이 경우 단순한 텍스트이다.
 * 요소(Element): 여는 태그, 닫는 태그, 내용을 통틀어 요소(element)라고한다.
 
+ex)
 <em>This is my text</em> : em 태그
 
 gang is <strong>dangerous</strong> : strong 태그
+
+* 이미지 넣기
+<img
+  src="https://raw.githubusercontent.com/mdn/beginner-html-site/gh-pages/images/firefox-icon.png" />
