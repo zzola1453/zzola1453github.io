@@ -27,8 +27,8 @@ ex) img 태그
 <img
   src="https://www.choicenews.co.kr/news/photo/202308/119206_84696_3036.jpg" />
 
-![image](https://github.com/zzola1453/zzola1453github.io/assets/71739885/62c07670-6f31-480c-85ea-ff293069ccc1)
 # 속성(Attributes)
+![image](https://github.com/zzola1453/zzola1453github.io/assets/71739885/62c07670-6f31-480c-85ea-ff293069ccc1)
 * 실제로 나타내고 싶지 않지만 추가적인 내용을 담고 싶을 때 사용한다.
 1. 요소 이름 다음에 바로 오는 속성은 요소 이름과 속성 사이에 공백이 있어야 되고, 하나 이상의 속성들이 있는 경우엔 속성 사이에 공백이 있어야 함.
 2. 속성 이름 다음엔 등호(=)가 붙는다.
