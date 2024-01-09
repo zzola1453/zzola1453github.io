@@ -6,4 +6,4 @@
 
 <em>This is my text</em> : em 태그
 
-<p>gang is <strong>dangerous</strong></p> : strong 태그
+gang is <strong>dangerous</strong> : strong 태그
