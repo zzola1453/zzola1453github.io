@@ -40,4 +40,13 @@ href="https://github.com/zzola1453/"
 <a href="https://www.youtube.com/watch?v=4cshHDL0m34/" target="_blank">마인크래프트 엔더드래곤 스피드런 영상</a>
 
 ## 참과 거짓 속성
+ex) disabled
+<input type="text" disabled />
+<input type="text" />
+
+# HTML 문서의 구조
+![캡처](https://github.com/zzola1453/zzola1453github.io/assets/71739885/67adfe54-0470-4459-b555-6416f62fa2d2)
+
+
+
 
