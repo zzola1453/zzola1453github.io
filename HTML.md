@@ -12,4 +12,4 @@ gang is <strong>dangerous</strong> : strong 태그
 * 이미지 넣기
   
 <img
-  src="[https://raw.githubusercontent.com/mdn/beginner-html-site/gh-pages/images/firefox-icon.png](https://www.choicenews.co.kr/news/photo/202308/119206_84696_3036.jpg)https://www.choicenews.co.kr/news/photo/202308/119206_84696_3036.jpg" />
+  src="[https://www.choicenews.co.kr/news/photo/202308/119206_84696_3036.jpg]" />
