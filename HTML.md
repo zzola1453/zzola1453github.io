@@ -5,4 +5,5 @@
 * 요소(Element): 여는 태그, 닫는 태그, 내용을 통틀어 요소(element)라고한다.
 
 <em>This is my text</em> : em 태그
+
 <p>gang is <strong>dangerous</strong></p> : strong 태그
