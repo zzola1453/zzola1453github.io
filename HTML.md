@@ -23,7 +23,6 @@ ex)
 <p>sixth</p>
 
 ## 빈 요소 : 단일 태그를 사용하는 요소
-ex) img
-* 이미지 넣기 (조유리사진)
+ex) img (조유리 사진)
 <img
   src="https://www.choicenews.co.kr/news/photo/202308/119206_84696_3036.jpg" />
