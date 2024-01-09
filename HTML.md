@@ -1,3 +1,4 @@
+<h1>HTML 시작</h1>
 
 # HTML 요소(Element)의 구조
 ![image](https://github.com/zzola1453/zzola1453github.io/assets/71739885/2bfb65df-fe0b-4522-b869-fcd91c2261a6)
@@ -59,11 +60,13 @@ ex) disabled
 ex) 이거 둘 다 똑같더라
 <p>Dogs are silly.</p>
 
-'<p>'Dogs        are
-         silly.'</p>'
+<p>Dogs        are
+         silly.</p>
 
 # HTML 주석
-"<!--내용-->"
+<p>아래에 글 있는데 주석이라 안보입니다./p>
+<!-- <p>gang is dangerous!</p> -->
+
 
 
          
