@@ -1,5 +1,5 @@
 
-H1 HTML 요소(Element)의 구조
+# HTML 요소(Element)의 구조
 ![image](https://github.com/zzola1453/zzola1453github.io/assets/71739885/2bfb65df-fe0b-4522-b869-fcd91c2261a6)
 * 여는 태그(Opening tag): 이것은 요소의 이름과(이 경우 p), 열고 닫는 꺽쇠 괄호로 구성됨. 요소가 시작(이 경우 단락의 시작 부분)부터 효과가 적용되기 시작한다.
 * 닫는 태그(Closing tag): 이것은 요소의 이름 앞에 슬래시(/)가 있는것을 제외하면 여는 태그(opening tag)와 같다. 이것은 요소의 끝(이 경우 단락의 끝 부분)에 위치한다. 닫는 태그를 적어주지 않는 것은 흔한 초심자의 오류이며, 이것은 이상한 결과를 낳게됨.
