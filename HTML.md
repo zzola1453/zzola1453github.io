@@ -12,18 +12,18 @@ ex)
 ex)
 gang is <strong>dangerous</strong> : strong 태그
 ## 블럭 레벨 요소 : 각 요소들이 새로운 줄에 나타난다.
-ex) 
+ex) em 태그
 <em>hood</em>
 <em>gang</em>
 <em>gun</em>
 ## 인라인 요소 : 각 요소들이 서로 같은 줄에 나타난다.
-ex)
+ex) p 태그
 <p>Bob</p>
 <p>John</p>
 <p>Kim</p>
 
 ## 빈 요소 : 단일 태그를 사용하는 요소
-ex) img (조유리 사진)
+ex) img 태그
 <img
   src="https://www.choicenews.co.kr/news/photo/202308/119206_84696_3036.jpg" />
 
@@ -33,5 +33,7 @@ ex) img (조유리 사진)
 2. 속성 이름 다음엔 등호(=)가 붙습니다.
 3. 속성 값은 열고 닫는 따옴표로 감싸야 합니다.
 
-ex) href
+ex) href 태그
 href="https://github.com/zzola1453/"
+
+<p>마인크래프트 엔더드래곤 스피드런 영상<a herf="https://www.youtube.com/watch?v=4cshHDL0m34" target="_blank"></p>
