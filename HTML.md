@@ -13,16 +13,25 @@ ex)
 gang is <strong>dangerous</strong> : strong 태그
 ## 블럭 레벨 요소 : 각 요소들이 새로운 줄에 나타난다.
 ex) 
-<em>first</em>
-<em>second</em>
-<em>third</em>
+<em>hood</em>
+<em>gang</em>
+<em>gun</em>
 ## 인라인 요소 : 각 요소들이 서로 같은 줄에 나타난다.
 ex)
-<p>fourth</p>
-<p>fifth</p>
-<p>sixth</p>
+<p>Bob</p>
+<p>John</p>
+<p>Kim</p>
 
 ## 빈 요소 : 단일 태그를 사용하는 요소
 ex) img (조유리 사진)
 <img
   src="https://www.choicenews.co.kr/news/photo/202308/119206_84696_3036.jpg" />
+
+# 속성(Attributes)
+* 실제로 나타내고 싶지 않지만 추가적인 내용을 담고 싶을 때 사용한다.
+1. 요소 이름 다음에 바로 오는 속성은 요소 이름과 속성 사이에 공백이 있어야 되고, 하나 이상의 속성들이 있는 경우엔 속성 사이에 공백이 있어야 합니다.
+2. 속성 이름 다음엔 등호(=)가 붙습니다.
+3. 속성 값은 열고 닫는 따옴표로 감싸야 합니다.
+
+ex) href
+href="https://github.com/zzola1453/"
