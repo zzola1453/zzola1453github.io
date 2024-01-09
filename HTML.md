@@ -48,6 +48,12 @@ ex) disabled
 # HTML 문서의 구조
 ![캡처](https://github.com/zzola1453/zzola1453github.io/assets/71739885/67adfe54-0470-4459-b555-6416f62fa2d2)
 
+1. !DOCTYPE html : 과거에는 유용하게 사용했지만 지금은 그냥 모든 것이 제대로 작동하기 위해 필요함
+2. html,/html : html의 요소, 전체 페이지의 콘텐츠를 포함하고 기본요소로 알려져 있음
+3. haed, /head : head의 요소, 검색결과에 노출될 키워드, css스타일, 홈페이지 설명 등 HTML 페이지에 대한 모든 내용을 담음
+4. meta charset="utf-8" : 이 설정을 사용하면 페이지에 포함된 모든 텍스트 내용을 처리할 수 있음
+5. <!--<title>, </title>--> : title의 요소, 페이지의 제목이 설정되며 브라우저 탭에 표시되는 제목으로 사용한다.
+6. .<body>, .</body>
 
 
 
