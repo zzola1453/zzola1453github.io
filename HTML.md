@@ -9,7 +9,7 @@ ex)
 
 gang is <strong>dangerous</strong> : strong 태그
 
-#<img scr="주소"/>
+#<img scr="주소" #/>
 * 이미지 넣기 (조유리)
 
 <img
