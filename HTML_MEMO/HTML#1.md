@@ -2,7 +2,7 @@
 <img src="https://velog.velcdn.com/images%2Fkatejo2000%2Fpost%2Fa36ec4d1-0ac5-4ba0-b7cf-905e8f6d18ed%2Fimage.png" />
 
 <pre>
-  <code>
+  <code>{
     <head></head> : 사용자에게 보이지 않는, 컴퓨터에게 주는 정보
     <body></body> : 사용자가 보는 부분의 정보(화면 내용)
     <html></html> : 여기서부터 html 코드에요~
@@ -26,5 +26,5 @@
 <strong></strong> : 굵은 글씨
 <table></table> : 표
 <tr></tr> : table row, 표의 행. th(head; 제목)와 td(data; 값)를 가진다.
-  </code>
+  }</code>
 </pre>
