@@ -73,7 +73,7 @@ ex) 이거 둘 다 똑같더라
 적은 내용
 ```html
 <!-- <p>gang is dangerous!</p> -->
-'''
+```
 
 
          
