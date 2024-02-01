@@ -71,7 +71,7 @@ ex) 이거 둘 다 똑같더라
 <!-- <p>gang is dangerous!</p> -->
 
 적은 내용
-'''html
+```html
 <!-- <p>gang is dangerous!</p> -->
 '''
 
