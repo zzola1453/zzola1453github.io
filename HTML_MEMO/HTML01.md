@@ -50,7 +50,18 @@ ex) disabled
 <input type="text" />
 
 # HTML 문서의 구조
-![캡처](https://github.com/zzola1453/zzola1453github.io/assets/71739885/67adfe54-0470-4459-b555-6416f62fa2d2)
+```html
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <title>My test page</title>
+  </head>
+  <body>
+    <p>This is my page</p>
+  </body>
+</html>
+```
 
 1. !DOCTYPE html : 과거에는 유용하게 사용했지만 지금은 그냥 모든 것이 제대로 작동하기 위해 필요함
 2. html,/html : html의 요소, 전체 페이지의 콘텐츠를 포함하고 기본요소로 알려져 있음
