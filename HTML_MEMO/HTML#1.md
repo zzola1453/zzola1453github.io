@@ -2,10 +2,10 @@
 <img src="https://velog.velcdn.com/images%2Fkatejo2000%2Fpost%2Fa36ec4d1-0ac5-4ba0-b7cf-905e8f6d18ed%2Fimage.png" />
 
 ```html
-    <head></head> : 사용자에게 보이지 않는, 컴퓨터에게 주는 정보
-    <body></body> : 사용자가 보는 부분의 정보(화면 내용)
-    <html></html> : 여기서부터 html 코드에요~
-    <title></title> : 인터넷 탭에 뜨는 내용(제목)
+<head></head> : 사용자에게 보이지 않는, 컴퓨터에게 주는 정보
+<body></body> : 사용자가 보는 부분의 정보(화면 내용)
+<html></html> : 여기서부터 html 코드에요~
+<title></title> : 인터넷 탭에 뜨는 내용(제목)
 <meta> : 메타 데이터; 데이터에 대한 데이터. 나중에 더 자세히..
 <div></div> : 화면 분할을 돕는 태그.
 <a></a> : anchor, 링크 만들기 (href(hypertext reference) 통해)
