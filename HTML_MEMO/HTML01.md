@@ -15,8 +15,8 @@ gang is <strong>dangerous</strong> : strong 태그
 ## 블럭 레벨 요소 : 각 요소들이 새로운 줄에 나타난다.
 ex) em 태그 
 '''html
-<em>내용</em>
-'''
+<em>내용</em> 
+''' 
 <em>hood</em>
 <em>gang</em>
 <em>gun</em>
