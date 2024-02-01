@@ -14,18 +14,27 @@ ex)
 gang is <strong>dangerous</strong> : strong 태그
 ## 블럭 레벨 요소 : 각 요소들이 새로운 줄에 나타난다.
 ex) em 태그 
+```html
+<em>내용</em>
+```
   
 <em>hood</em>
 <em>gang</em>
 <em>gun</em>
 ## 인라인 요소 : 각 요소들이 서로 같은 줄에 나타난다.
 ex) p 태그
+```html
+<p>내용</p>
+```
 <p>Bob</p>
 <p>John</p>
 <p>Kim</p>
 
 ## 빈 요소 : 단일 태그를 사용하는 요소
 ex) img 태그 
+```html
+<img scr="주소" />
+```
 
 
 
