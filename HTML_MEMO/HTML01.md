@@ -61,6 +61,13 @@ ex) disabled
 
 ## HTML 공백
 ex) 이거 둘 다 똑같더라
+```html
+<p>Dogs are silly.</p>
+
+<p>Dogs        are
+         silly.</p>
+```
+결과  
 <p>Dogs are silly.</p>
 
 <p>Dogs        are
