@@ -10,6 +10,9 @@
 ex)
 <em>This is my text</em> : em 태그
 ## 포함된 요소
+```html
+gang is <strong>dangerous</strong>
+```
 ex)
 gang is <strong>dangerous</strong> : strong 태그
 ## 블럭 레벨 요소 : 각 요소들이 새로운 줄에 나타난다.
@@ -55,6 +58,11 @@ href="https://github.com/zzola1453/"
 
 ## 참과 거짓 속성
 ex) disabled
+```html
+<input type="text" disabled />
+<input type="text" />
+```
+
 <input type="text" disabled />
 <input type="text" />
 
@@ -96,7 +104,7 @@ ex) 이거 둘 다 똑같더라
 # HTML 주석
 아래에 글 있는데 주석이라 안보입니다.
 <!-- <p>gang is dangerous!</p> -->
-
+  
 적은 내용
 ```html
 <!-- <p>gang is dangerous!</p> -->
